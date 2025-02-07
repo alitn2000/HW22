@@ -1,0 +1,15 @@
+D:\c#\HW`S\HW22\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.csproj.AssemblyReference.cache
+D:\c#\HW`S\HW22\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\HW`S\HW22\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.AssemblyInfoInputs.cache
+D:\c#\HW`S\HW22\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.AssemblyInfo.cs
+D:\c#\HW`S\HW22\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.csproj.CoreCompileInputs.cache
+D:\c#\HW`S\HW22\App.Domain.Services\bin\Debug\net8.0\App.Domain.Services.deps.json
+D:\c#\HW`S\HW22\App.Domain.Services\bin\Debug\net8.0\App.Domain.Services.dll
+D:\c#\HW`S\HW22\App.Domain.Services\bin\Debug\net8.0\App.Domain.Services.pdb
+D:\c#\HW`S\HW22\App.Domain.Services\bin\Debug\net8.0\App.Domain.Core.dll
+D:\c#\HW`S\HW22\App.Domain.Services\bin\Debug\net8.0\App.Domain.Core.pdb
+D:\c#\HW`S\HW22\App.Domain.Services\obj\Debug\net8.0\App.Doma.EF676C44.Up2Date
+D:\c#\HW`S\HW22\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.dll
+D:\c#\HW`S\HW22\App.Domain.Services\obj\Debug\net8.0\refint\App.Domain.Services.dll
+D:\c#\HW`S\HW22\App.Domain.Services\obj\Debug\net8.0\App.Domain.Services.pdb
+D:\c#\HW`S\HW22\App.Domain.Services\obj\Debug\net8.0\ref\App.Domain.Services.dll

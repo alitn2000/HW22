@@ -1,0 +1,5 @@
+D:\c#\HW`S\HW22\App.Domain.AppServices\obj\Debug\net8.0\App.Domain.AppServices.csproj.AssemblyReference.cache
+D:\c#\HW`S\HW22\App.Domain.AppServices\obj\Debug\net8.0\App.Domain.AppServices.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\HW`S\HW22\App.Domain.AppServices\obj\Debug\net8.0\App.Domain.AppServices.AssemblyInfoInputs.cache
+D:\c#\HW`S\HW22\App.Domain.AppServices\obj\Debug\net8.0\App.Domain.AppServices.AssemblyInfo.cs
+D:\c#\HW`S\HW22\App.Domain.AppServices\obj\Debug\net8.0\App.Domain.AppServices.csproj.CoreCompileInputs.cache

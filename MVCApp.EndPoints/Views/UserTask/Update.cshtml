@@ -1,0 +1,72 @@
+﻿
+@model UpdateTaskModelView
+<div class="container px-5 my-5">
+    <form method="post" asp-action="Update" id="contactForm" data-sb-form-api-token="API_TOKEN">
+
+        <input type="hidden" asp-for="Id" />
+        <div class="form-floating mb-3">
+            <input class="form-control" asp-for="Title" />
+            <label asp-for="Title"></label>
+            <span class="text-danger" asp-validation-for="Title"></span>
+        </div>
+
+
+
+        <div class="form-floating mb-3">
+            <textarea class="form-control" asp-for="Description" type="text" style="height: 10rem;"></textarea>
+            <label asp-for="Description">Description</label>
+            <span class="text-danger" asp-validation-for="Description"></span>
+        </div>
+
+        <div class="form-floating mb-3">
+            <input class="form-control" asp-for="DeadTime" />
+            <label asp-for="DeadTime">DeadTime</label>
+            <span class="text-danger" asp-validation-for="DeadTime"> </span>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label d-block">status</label>
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" asp-for="IsCompelete" value="true" type="checkbox" id="completed"   />
+                <label class="form-check-label" for="completed">Completed</label>
+            </div>
+
+            <div class="form-check form-check-inline">
+                <input class="form-check-input" asp-for="IsCompelete" value="false" id="uncompleted" type="checkbox"  />
+                <label class="form-check-label" for="uncompleted">Uncompleted</label>
+            </div>
+        </div>
+
+        <span class="text-danger" asp-validation-for="IsCompelete"></span>
+
+        <div class="d-none" id="submitErrorMessage">
+            <div class="text-center text-danger mb-3">Error sending message!</div>
+        </div>
+        <div class="d-grid">
+            <button class="btn btn-primary btn-lg " id="submitButton" type="submit">Submit</button>
+        </div>
+    </form>
+
+</div>
+
+
+
+    @{
+
+    if (TempData["FoundTask"] is not null)
+    {
+        <div class="alert alert-info">@TempData["FoundTask"]</div>
+    }
+    else if (TempData["UpdateResult"] is not null)
+    {
+        <div class="alert alert-info">@TempData["UpdateResult"]</div>
+    }
+    
+    }
+    TempData["UpdateResult"]
+    @section Scripts
+    {
+        <partial name="_validationScriptsPartial" />
+    }
+
+    <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>

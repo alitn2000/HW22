@@ -1,0 +1,17 @@
+D:\c#\HW`S\HW22\App.Infra.DataAccess.EF\bin\Debug\net8.0\App.Infra.DataAccess.EF.deps.json
+D:\c#\HW`S\HW22\App.Infra.DataAccess.EF\bin\Debug\net8.0\App.Infra.DataAccess.EF.dll
+D:\c#\HW`S\HW22\App.Infra.DataAccess.EF\bin\Debug\net8.0\App.Infra.DataAccess.EF.pdb
+D:\c#\HW`S\HW22\App.Infra.DataAccess.EF\bin\Debug\net8.0\App.Domain.Core.dll
+D:\c#\HW`S\HW22\App.Infra.DataAccess.EF\bin\Debug\net8.0\App.Infra.Data.SqlService.Ef.dll
+D:\c#\HW`S\HW22\App.Infra.DataAccess.EF\bin\Debug\net8.0\App.Domain.Core.pdb
+D:\c#\HW`S\HW22\App.Infra.DataAccess.EF\bin\Debug\net8.0\App.Infra.Data.SqlService.Ef.pdb
+D:\c#\HW`S\HW22\App.Infra.DataAccess.EF\obj\Debug\net8.0\App.Infra.DataAccess.EF.csproj.AssemblyReference.cache
+D:\c#\HW`S\HW22\App.Infra.DataAccess.EF\obj\Debug\net8.0\App.Infra.DataAccess.EF.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\HW`S\HW22\App.Infra.DataAccess.EF\obj\Debug\net8.0\App.Infra.DataAccess.EF.AssemblyInfoInputs.cache
+D:\c#\HW`S\HW22\App.Infra.DataAccess.EF\obj\Debug\net8.0\App.Infra.DataAccess.EF.AssemblyInfo.cs
+D:\c#\HW`S\HW22\App.Infra.DataAccess.EF\obj\Debug\net8.0\App.Infra.DataAccess.EF.csproj.CoreCompileInputs.cache
+D:\c#\HW`S\HW22\App.Infra.DataAccess.EF\obj\Debug\net8.0\App.Infr.1D227C7B.Up2Date
+D:\c#\HW`S\HW22\App.Infra.DataAccess.EF\obj\Debug\net8.0\App.Infra.DataAccess.EF.dll
+D:\c#\HW`S\HW22\App.Infra.DataAccess.EF\obj\Debug\net8.0\refint\App.Infra.DataAccess.EF.dll
+D:\c#\HW`S\HW22\App.Infra.DataAccess.EF\obj\Debug\net8.0\App.Infra.DataAccess.EF.pdb
+D:\c#\HW`S\HW22\App.Infra.DataAccess.EF\obj\Debug\net8.0\ref\App.Infra.DataAccess.EF.dll

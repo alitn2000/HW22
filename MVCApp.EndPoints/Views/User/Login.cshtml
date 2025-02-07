@@ -1,0 +1,34 @@
+﻿@model LoginModelView
+<div class="container px-5 my-5">
+    <form method="post" asp-action="Login" id="contactForm" data-sb-form-api-token="API_TOKEN">
+
+        <div class="form-floating mb-3">
+            <input class="form-control" asp-for="UserName" />
+            <label asp-for="UserName"></label>
+            <span class="text-danger" asp-validation-for="UserName"></span>
+        </div>
+
+        <div class="form-floating mb-3">
+            <input class="form-control" asp-for="Password" />
+            <label asp-for="Password"></label>
+            <span class="text-danger" asp-validation-for="Password"></span>
+        </div>
+
+        <div class="d-none" id="submitErrorMessage">
+            <div class="text-center text-danger mb-3">Error sending message!</div>
+        </div>
+        <div class="d-grid">
+            <button class="btn btn-primary btn-lg " id="submitButton" type="submit">Submit</button>
+        </div>
+    </form>
+    @if (TempData["LoginResult"] != null)
+    {
+        <div class="alert alert-info">@TempData["LoginResult"]</div>
+    }
+</div>
+@section Scripts
+{
+    <partial name="_validationScriptsPartial" />
+}
+
+<script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>

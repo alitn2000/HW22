@@ -1,0 +1,31 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="8.0.11" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.11">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="8.0.11" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.11">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.11" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\App.Domain.AppServices\App.Domain.Services.AppServices.csproj" />
+	  <ProjectReference Include="..\App.Domain.Core\App.Domain.Core.csproj" />
+	  <ProjectReference Include="..\App.Domain.Services\App.Domain.Services.csproj" />
+	  <ProjectReference Include="..\App.Infra.Data.SqlService.Ef\App.Infra.Data.SqlService.Ef.csproj" />
+	  <ProjectReference Include="..\App.Infra.DataAccess.EF\App.Infra.DataAccess.EF.csproj" />
+	</ItemGroup>
+
+</Project>

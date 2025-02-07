@@ -1,0 +1,17 @@
+D:\c#\HW`S\HW22\App.Infra.Data.SqlService.Ef\bin\Debug\net8.0\App.Infra.Data.SqlService.Ef.deps.json
+D:\c#\HW`S\HW22\App.Infra.Data.SqlService.Ef\bin\Debug\net8.0\App.Infra.Data.SqlService.Ef.runtimeconfig.json
+D:\c#\HW`S\HW22\App.Infra.Data.SqlService.Ef\bin\Debug\net8.0\App.Infra.Data.SqlService.Ef.dll
+D:\c#\HW`S\HW22\App.Infra.Data.SqlService.Ef\bin\Debug\net8.0\App.Infra.Data.SqlService.Ef.pdb
+D:\c#\HW`S\HW22\App.Infra.Data.SqlService.Ef\bin\Debug\net8.0\App.Domain.Core.dll
+D:\c#\HW`S\HW22\App.Infra.Data.SqlService.Ef\bin\Debug\net8.0\App.Domain.Core.pdb
+D:\c#\HW`S\HW22\App.Infra.Data.SqlService.Ef\obj\Debug\net8.0\App.Infra.Data.SqlService.Ef.csproj.AssemblyReference.cache
+D:\c#\HW`S\HW22\App.Infra.Data.SqlService.Ef\obj\Debug\net8.0\App.Infra.Data.SqlService.Ef.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\HW`S\HW22\App.Infra.Data.SqlService.Ef\obj\Debug\net8.0\App.Infra.Data.SqlService.Ef.AssemblyInfoInputs.cache
+D:\c#\HW`S\HW22\App.Infra.Data.SqlService.Ef\obj\Debug\net8.0\App.Infra.Data.SqlService.Ef.AssemblyInfo.cs
+D:\c#\HW`S\HW22\App.Infra.Data.SqlService.Ef\obj\Debug\net8.0\App.Infra.Data.SqlService.Ef.csproj.CoreCompileInputs.cache
+D:\c#\HW`S\HW22\App.Infra.Data.SqlService.Ef\obj\Debug\net8.0\App.Infr.9AB27E7C.Up2Date
+D:\c#\HW`S\HW22\App.Infra.Data.SqlService.Ef\obj\Debug\net8.0\App.Infra.Data.SqlService.Ef.dll
+D:\c#\HW`S\HW22\App.Infra.Data.SqlService.Ef\obj\Debug\net8.0\refint\App.Infra.Data.SqlService.Ef.dll
+D:\c#\HW`S\HW22\App.Infra.Data.SqlService.Ef\obj\Debug\net8.0\App.Infra.Data.SqlService.Ef.pdb
+D:\c#\HW`S\HW22\App.Infra.Data.SqlService.Ef\obj\Debug\net8.0\App.Infra.Data.SqlService.Ef.genruntimeconfig.cache
+D:\c#\HW`S\HW22\App.Infra.Data.SqlService.Ef\obj\Debug\net8.0\ref\App.Infra.Data.SqlService.Ef.dll

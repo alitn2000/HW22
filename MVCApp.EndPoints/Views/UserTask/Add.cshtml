@@ -1,0 +1,49 @@
+﻿@model AddTaskModelView
+<div class="container px-5 my-5">
+    <form method="post" asp-action="Add" id="contactForm" data-sb-form-api-token="API_TOKEN">
+
+        <div class="form-floating mb-3">
+            <input class="form-control" asp-for="Title" />
+            <label asp-for="Title"></label>
+            <span class="text-danger" asp-validation-for="Title"></span>
+        </div>
+
+        
+
+        <div class="form-floating mb-3">
+            <textarea class="form-control" asp-for="Description" type="text" style="height: 10rem;"></textarea>
+            <label asp-for="Description">Description</label>
+            <span class="text-danger" asp-validation-for="Description"></span>
+        </div>
+
+        <div class="form-floating mb-3">
+            <input class="form-control" asp-for="DeadTime"/>
+            <label asp-for="DeadTime">Exam Date</label>
+            <span class="text-danger" asp-validation-for="DeadTime"> </span>
+        </div>
+
+
+        <div class="d-none" id="submitErrorMessage">
+            <div class="text-center text-danger mb-3">Error sending message!</div>
+        </div>
+        <div class="d-grid">
+            <button class="btn btn-primary btn-lg " id="submitButton" type="submit">Submit</button>
+        </div>
+    </form>
+   
+</div>
+@if (TempData["TaskLimit"] is not null){
+    <div class="alert alert-info">@TempData["TaskLimit"]</div>
+}
+
+@if (TempData["AddResult"] is not null)
+{
+    <div class="alert alert-info">@TempData["AddResult"]</div>
+}
+
+@section Scripts
+{
+    <partial name="_validationScriptsPartial" />
+}
+
+<script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
