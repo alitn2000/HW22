@@ -15,3 +15,4 @@ D:\c#\HW`S\HW22\App.Infra.DataAccess.EF\obj\Debug\net8.0\App.Infra.DataAccess.EF
 D:\c#\HW`S\HW22\App.Infra.DataAccess.EF\obj\Debug\net8.0\refint\App.Infra.DataAccess.EF.dll
 D:\c#\HW`S\HW22\App.Infra.DataAccess.EF\obj\Debug\net8.0\App.Infra.DataAccess.EF.pdb
 D:\c#\HW`S\HW22\App.Infra.DataAccess.EF\obj\Debug\net8.0\ref\App.Infra.DataAccess.EF.dll
+D:\c#\HW`S\HW22\App.Infra.DataAccess.EF\obj\Debug\net8.0\App.Infra.DataAccess.EF.sourcelink.json

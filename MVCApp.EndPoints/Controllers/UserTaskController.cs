@@ -26,6 +26,8 @@ public class UserTaskController : Controller
     {
         var user = await _userManager.GetUserAsync(User);
         var tasks = await _userTaskAppService.GetAllUserTasksAsync(user.Id, cancel);
+        ViewBag.TaskCount = tasks.Count();
+
         return View(tasks);
     }
     

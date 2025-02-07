@@ -280,3 +280,4 @@ D:\c#\HW`S\HW22\MVCApp.EndPoints\obj\Debug\net8.0\refint\MVCApp.EndPoints.dll
 D:\c#\HW`S\HW22\MVCApp.EndPoints\obj\Debug\net8.0\MVCApp.EndPoints.pdb
 D:\c#\HW`S\HW22\MVCApp.EndPoints\obj\Debug\net8.0\MVCApp.EndPoints.genruntimeconfig.cache
 D:\c#\HW`S\HW22\MVCApp.EndPoints\obj\Debug\net8.0\ref\MVCApp.EndPoints.dll
+D:\c#\HW`S\HW22\MVCApp.EndPoints\obj\Debug\net8.0\MVCApp.EndPoints.sourcelink.json

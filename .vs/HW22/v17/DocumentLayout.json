@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "D:\\c#\\HW\u0060S\\HW22\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DAFB60C3-9CDF-4611-889F-0B4ED073A531}|MVCApp.EndPoints\\MVCApp.EndPoints.csproj|d:\\c#\\hw\u0060s\\hw22\\mvcapp.endpoints\\views\\usertask\\tasklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DAFB60C3-9CDF-4611-889F-0B4ED073A531}|MVCApp.EndPoints\\MVCApp.EndPoints.csproj|solutionrelative:mvcapp.endpoints\\views\\usertask\\tasklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFB60C3-9CDF-4611-889F-0B4ED073A531}|MVCApp.EndPoints\\MVCApp.EndPoints.csproj|d:\\c#\\hw\u0060s\\hw22\\mvcapp.endpoints\\controllers\\usertaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAFB60C3-9CDF-4611-889F-0B4ED073A531}|MVCApp.EndPoints\\MVCApp.EndPoints.csproj|solutionrelative:mvcapp.endpoints\\controllers\\usertaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2010770-D900-481E-8937-7976D8D5CD96}|App.Infra.DataAccess.EF\\App.Infra.DataAccess.EF.csproj|d:\\c#\\hw\u0060s\\hw22\\app.infra.dataaccess.ef\\usertaskaggrigate\\usertaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2010770-D900-481E-8937-7976D8D5CD96}|App.Infra.DataAccess.EF\\App.Infra.DataAccess.EF.csproj|solutionrelative:app.infra.dataaccess.ef\\usertaskaggrigate\\usertaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{253F68D6-D7AB-40AC-B029-EC0EFA1BF219}|App.Domain.Services\\App.Domain.Services.csproj|d:\\c#\\hw\u0060s\\hw22\\app.domain.services\\taskmanager\\usertaskservices\\usertaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{253F68D6-D7AB-40AC-B029-EC0EFA1BF219}|App.Domain.Services\\App.Domain.Services.csproj|solutionrelative:app.domain.services\\taskmanager\\usertaskservices\\usertaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAFB60C3-9CDF-4611-889F-0B4ED073A531}|MVCApp.EndPoints\\MVCApp.EndPoints.csproj|d:\\c#\\hw\u0060s\\hw22\\mvcapp.endpoints\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DAFB60C3-9CDF-4611-889F-0B4ED073A531}|MVCApp.EndPoints\\MVCApp.EndPoints.csproj|solutionrelative:mvcapp.endpoints\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAFB60C3-9CDF-4611-889F-0B4ED073A531}|MVCApp.EndPoints\\MVCApp.EndPoints.csproj|d:\\c#\\hw\u0060s\\hw22\\mvcapp.endpoints\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DAFB60C3-9CDF-4611-889F-0B4ED073A531}|MVCApp.EndPoints\\MVCApp.EndPoints.csproj|d:\\c#\\hw\u0060s\\hw22\\mvcapp.endpoints\\views\\usertask\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DAFB60C3-9CDF-4611-889F-0B4ED073A531}|MVCApp.EndPoints\\MVCApp.EndPoints.csproj|solutionrelative:mvcapp.endpoints\\views\\usertask\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAFB60C3-9CDF-4611-889F-0B4ED073A531}|MVCApp.EndPoints\\MVCApp.EndPoints.csproj|d:\\c#\\hw\u0060s\\hw22\\mvcapp.endpoints\\controllers\\usertaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DAFB60C3-9CDF-4611-889F-0B4ED073A531}|MVCApp.EndPoints\\MVCApp.EndPoints.csproj|solutionrelative:mvcapp.endpoints\\controllers\\usertaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAFB60C3-9CDF-4611-889F-0B4ED073A531}|MVCApp.EndPoints\\MVCApp.EndPoints.csproj|d:\\c#\\hw\u0060s\\hw22\\mvcapp.endpoints\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{DAFB60C3-9CDF-4611-889F-0B4ED073A531}|MVCApp.EndPoints\\MVCApp.EndPoints.csproj|d:\\c#\\hw\u0060s\\hw22\\mvcapp.endpoints\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DAFB60C3-9CDF-4611-889F-0B4ED073A531}|MVCApp.EndPoints\\MVCApp.EndPoints.csproj|solutionrelative:mvcapp.endpoints\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAFB60C3-9CDF-4611-889F-0B4ED073A531}|MVCApp.EndPoints\\MVCApp.EndPoints.csproj|d:\\c#\\hw\u0060s\\hw22\\mvcapp.endpoints\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{DAFB60C3-9CDF-4611-889F-0B4ED073A531}|MVCApp.EndPoints\\MVCApp.EndPoints.csproj|solutionrelative:mvcapp.endpoints\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DAFB60C3-9CDF-4611-889F-0B4ED073A531}|MVCApp.EndPoints\\MVCApp.EndPoints.csproj|d:\\c#\\hw\u0060s\\hw22\\mvcapp.endpoints\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,12 +63,12 @@
       "RelativeMoniker": "D:0:0:{DAFB60C3-9CDF-4611-889F-0B4ED073A531}|MVCApp.EndPoints\\MVCApp.EndPoints.csproj|solutionrelative:mvcapp.endpoints\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\c#\\HW\u0060S\\HW22\\App.Infra.Data.SqlService.Ef\\Migrations\\20250206230231_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:App.Infra.Data.SqlService.Ef\\Migrations\\20250206230231_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{DAFB60C3-9CDF-4611-889F-0B4ED073A531}|MVCApp.EndPoints\\MVCApp.EndPoints.csproj|d:\\c#\\hw\u0060s\\hw22\\mvcapp.endpoints\\models\\updatetaskmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAFB60C3-9CDF-4611-889F-0B4ED073A531}|MVCApp.EndPoints\\MVCApp.EndPoints.csproj|solutionrelative:mvcapp.endpoints\\models\\updatetaskmodelview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E4C2BEF-64ED-445E-A317-40AC0F21E9E7}|App.Infra.Data.SqlService.Ef\\App.Infra.Data.SqlService.Ef.csproj|d:\\c#\\hw\u0060s\\hw22\\app.infra.data.sqlservice.ef\\migrations\\20250206230231_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E4C2BEF-64ED-445E-A317-40AC0F21E9E7}|App.Infra.Data.SqlService.Ef\\App.Infra.Data.SqlService.Ef.csproj|solutionrelative:app.infra.data.sqlservice.ef\\migrations\\20250206230231_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -83,19 +91,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TaskList.cshtml",
+              "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW22\\MVCApp.EndPoints\\Views\\UserTask\\TaskList.cshtml",
+              "RelativeDocumentMoniker": "MVCApp.EndPoints\\Views\\UserTask\\TaskList.cshtml",
+              "ToolTip": "D:\\c#\\HW\u0060S\\HW22\\MVCApp.EndPoints\\Views\\UserTask\\TaskList.cshtml",
+              "RelativeToolTip": "MVCApp.EndPoints\\Views\\UserTask\\TaskList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-07T06:12:38.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserTaskService.cs",
+              "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW22\\App.Domain.Services\\TaskManager\\UserTaskServices\\UserTaskService.cs",
+              "RelativeDocumentMoniker": "App.Domain.Services\\TaskManager\\UserTaskServices\\UserTaskService.cs",
+              "ToolTip": "D:\\c#\\HW\u0060S\\HW22\\App.Domain.Services\\TaskManager\\UserTaskServices\\UserTaskService.cs",
+              "RelativeToolTip": "App.Domain.Services\\TaskManager\\UserTaskServices\\UserTaskService.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAIwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T06:04:23.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UserTaskRepository.cs",
               "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW22\\App.Infra.DataAccess.EF\\UserTaskAggrigate\\UserTaskRepository.cs",
               "RelativeDocumentMoniker": "App.Infra.DataAccess.EF\\UserTaskAggrigate\\UserTaskRepository.cs",
               "ToolTip": "D:\\c#\\HW\u0060S\\HW22\\App.Infra.DataAccess.EF\\UserTaskAggrigate\\UserTaskRepository.cs",
               "RelativeToolTip": "App.Infra.DataAccess.EF\\UserTaskAggrigate\\UserTaskRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowCUAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAAAF8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-07T00:01:10.77Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW22\\MVCApp.EndPoints\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "MVCApp.EndPoints\\Controllers\\HomeController.cs",
@@ -103,38 +137,37 @@
               "RelativeToolTip": "MVCApp.EndPoints\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T23:57:09.614Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T23:57:09.614Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "UserTaskController.cs",
               "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW22\\MVCApp.EndPoints\\Controllers\\UserTaskController.cs",
               "RelativeDocumentMoniker": "MVCApp.EndPoints\\Controllers\\UserTaskController.cs",
               "ToolTip": "D:\\c#\\HW\u0060S\\HW22\\MVCApp.EndPoints\\Controllers\\UserTaskController.cs",
               "RelativeToolTip": "MVCApp.EndPoints\\Controllers\\UserTaskController.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAgwFgAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABwAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-06T23:33:10.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW22\\MVCApp.EndPoints\\appsettings.json",
               "RelativeDocumentMoniker": "MVCApp.EndPoints\\appsettings.json",
               "ToolTip": "D:\\c#\\HW\u0060S\\HW22\\MVCApp.EndPoints\\appsettings.json",
               "RelativeToolTip": "MVCApp.EndPoints\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-06T23:31:08.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "RegisterModelView.cs",
               "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW22\\MVCApp.EndPoints\\Models\\RegisterModelView.cs",
               "RelativeDocumentMoniker": "MVCApp.EndPoints\\Models\\RegisterModelView.cs",
@@ -142,12 +175,11 @@
               "RelativeToolTip": "MVCApp.EndPoints\\Models\\RegisterModelView.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAQwA4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T23:15:24.835Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T23:15:24.835Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Register.cshtml",
               "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW22\\MVCApp.EndPoints\\Views\\User\\Register.cshtml",
               "RelativeDocumentMoniker": "MVCApp.EndPoints\\Views\\User\\Register.cshtml",
@@ -155,12 +187,11 @@
               "RelativeToolTip": "MVCApp.EndPoints\\Views\\User\\Register.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T23:04:30.163Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T23:04:30.163Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "LoginModelView.cs",
               "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW22\\MVCApp.EndPoints\\Models\\LoginModelView.cs",
               "RelativeDocumentMoniker": "MVCApp.EndPoints\\Models\\LoginModelView.cs",
@@ -168,12 +199,11 @@
               "RelativeToolTip": "MVCApp.EndPoints\\Models\\LoginModelView.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T23:03:13.799Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T23:03:13.799Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "20250206230231_init.cs",
               "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW22\\App.Infra.Data.SqlService.Ef\\Migrations\\20250206230231_init.cs",
               "RelativeDocumentMoniker": "App.Infra.Data.SqlService.Ef\\Migrations\\20250206230231_init.cs",
@@ -181,12 +211,11 @@
               "RelativeToolTip": "App.Infra.Data.SqlService.Ef\\Migrations\\20250206230231_init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T23:02:31.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T23:02:31.901Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW22\\MVCApp.EndPoints\\Views\\User\\Login.cshtml",
               "RelativeDocumentMoniker": "MVCApp.EndPoints\\Views\\User\\Login.cshtml",
@@ -194,12 +223,11 @@
               "RelativeToolTip": "MVCApp.EndPoints\\Views\\User\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T22:58:53.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T22:58:53.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW22\\MVCApp.EndPoints\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "MVCApp.EndPoints\\Controllers\\UserController.cs",
@@ -207,12 +235,11 @@
               "RelativeToolTip": "MVCApp.EndPoints\\Controllers\\UserController.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T22:50:32.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T22:50:32.514Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW22\\MVCApp.EndPoints\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MVCApp.EndPoints\\Views\\Shared\\_Layout.cshtml",
@@ -220,12 +247,11 @@
               "RelativeToolTip": "MVCApp.EndPoints\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAABEAAAAAAAAAAAAIwCMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T22:41:43.015Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T22:41:43.015Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW22\\MVCApp.EndPoints\\Program.cs",
               "RelativeDocumentMoniker": "MVCApp.EndPoints\\Program.cs",
@@ -233,12 +259,11 @@
               "RelativeToolTip": "MVCApp.EndPoints\\Program.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAB4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T22:38:29.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T22:38:29.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Add.cshtml",
               "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW22\\MVCApp.EndPoints\\Views\\UserTask\\Add.cshtml",
               "RelativeDocumentMoniker": "MVCApp.EndPoints\\Views\\UserTask\\Add.cshtml",
@@ -246,12 +271,11 @@
               "RelativeToolTip": "MVCApp.EndPoints\\Views\\UserTask\\Add.cshtml",
               "ViewState": "AgIAAA4AAAAAAAAAAAAQwCgAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T22:29:46.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T22:29:46.805Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "UpdateTaskModelView.cs",
               "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW22\\MVCApp.EndPoints\\Models\\UpdateTaskModelView.cs",
               "RelativeDocumentMoniker": "MVCApp.EndPoints\\Models\\UpdateTaskModelView.cs",
@@ -259,12 +283,11 @@
               "RelativeToolTip": "MVCApp.EndPoints\\Models\\UpdateTaskModelView.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-06T22:23:44.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T22:23:44.972Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Update.cshtml",
               "DocumentMoniker": "D:\\c#\\HW\u0060S\\HW22\\MVCApp.EndPoints\\Views\\UserTask\\Update.cshtml",
               "RelativeDocumentMoniker": "MVCApp.EndPoints\\Views\\UserTask\\Update.cshtml",
@@ -272,8 +295,7 @@
               "RelativeToolTip": "MVCApp.EndPoints\\Views\\UserTask\\Update.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-02-06T22:07:37.059Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-06T22:07:37.059Z"
             }
           ]
         }
